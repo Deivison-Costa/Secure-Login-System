@@ -52,7 +52,7 @@ Login Attempts Limit: The application imposes a limit of ten failed login attemp
 
 Secure Database Connection: The LoginForm establishes a secure connection to the PostgreSQL database using the specified connection settings.
 
-It's important to note that while these measures enhance security, they do not guarantee absolute protection. Additional security measures, such as secure server configurations, encryption of sensitive data in transit, and input validation, should be implemented based on specific application requirements and best practices.
+It's important to note that while these measures enhance security, they do not guarantee absolute protection.
 
 # PostgreSQL Database Setup
 
