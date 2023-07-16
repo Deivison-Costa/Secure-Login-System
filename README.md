@@ -28,7 +28,9 @@ Exiting the Application: Clicking the "Exit" button closes the application.
 
 # Database Configuration
 
-## The LoginForm connects to a PostgreSQL database for storing user information. The database connection settings are configured in the SetupDatabaseConnection procedure. By default, the following settings are used:
+The LoginForm connects to a PostgreSQL database for storing user information. The database connection settings are configured in the SetupDatabaseConnection procedure. 
+
+## By default, the following settings are used:
 
     Protocol: PostgreSQL
     User: admin
