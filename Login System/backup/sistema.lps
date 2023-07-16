@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="sistema.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="loginform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="LoginFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="LoginForm"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="181"/>
+        <CursorPos X="68" Y="188"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../.lazarus/onlinepackagemanager/packages/zeosdbo/src/dbc/ZDbcPostgreSqlUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="684"/>
+        <CursorPos Y="698"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="BCrypt.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41" Y="43"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="BCrypt.Core.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="394"/>
+        <CursorPos Y="409"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="30" Column="40" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="89" Column="28" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="199" Column="28" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="30" Column="51" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="32" Column="93" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="61" Column="42" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="84" Column="42" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="133" Column="42" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="194" Column="42" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="30" Column="40" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="97" Column="28" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="198" Column="28" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="325" Column="78" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="8" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="17" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="8" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="22" Column="75"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="14" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="253" Column="40" TopLine="244"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="107" Column="32" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="109" Column="32" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="16" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="192" Column="17" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="200" Column="42" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="194" Column="17" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="187" Column="5" TopLine="181"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="26" Column="52" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Line="27" Column="50" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="loginform.pas"/>
+        <Caret Column="66"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

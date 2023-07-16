@@ -1,0 +1,72 @@
+object LoginFrm: TLoginFrm
+  Left = 342
+  Height = 437
+  Top = 250
+  Width = 437
+  Caption = 'Login'
+  ClientHeight = 437
+  ClientWidth = 437
+  LCLVersion = '2.2.0.4'
+  object EditUsername: TEdit
+    Left = 83
+    Height = 34
+    Top = 72
+    Width = 272
+    TabOrder = 0
+    Text = 'Enter your username and password...'
+  end
+  object EditPassword: TEdit
+    Left = 83
+    Height = 34
+    Top = 120
+    Width = 272
+    EchoMode = emPassword
+    PasswordChar = '*'
+    TabOrder = 1
+  end
+  object ButtonLogin: TButton
+    Left = 83
+    Height = 25
+    Top = 176
+    Width = 75
+    Caption = 'Login'
+    OnClick = ButtonLoginClick
+    TabOrder = 2
+  end
+  object ButtonRegister: TButton
+    Left = 280
+    Height = 25
+    Top = 176
+    Width = 75
+    Caption = 'Register'
+    OnClick = ButtonRegisterClick
+    TabOrder = 3
+  end
+  object ButtonChangeAccount: TButton
+    Left = 83
+    Height = 25
+    Top = 224
+    Width = 131
+    Caption = 'Update Account'
+    OnClick = ButtonChangeAccountClick
+    TabOrder = 4
+  end
+  object ButtonDeleteAccount: TButton
+    Left = 224
+    Height = 25
+    Top = 224
+    Width = 131
+    Caption = 'Delete Account'
+    OnClick = ButtonDeleteAccountClick
+    TabOrder = 5
+  end
+  object ButtonExit: TButton
+    Left = 184
+    Height = 25
+    Top = 272
+    Width = 75
+    Caption = 'Exit'
+    OnClick = ButtonExitClick
+    TabOrder = 6
+  end
+end
