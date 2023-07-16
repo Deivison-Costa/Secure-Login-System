@@ -1,6 +1,7 @@
 # LoginForm
 
 The LoginForm is a graphical user interface (GUI) form implemented in Free Pascal with the Lazarus Component Library (LCL). It provides functionality for user registration, login, account updates, and account deletion. The form interacts with a PostgreSQL database to store user information and uses the BCrypt hashing algorithm for secure password storage.
+
 # Dependencies
 
 ## The LoginForm relies on the following dependencies:
