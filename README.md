@@ -60,4 +60,4 @@ The "login" database has a single table called "users" with columns for the user
 
 Note: The password column is VARCHAR(60) to accommodate the BCrypt hashed password, which typically results in a string of 60 characters.
 	
-You can now modify the LoginForm's database connection settings according to your PostgreSQL configuration and start using the application. :)
+You can modify the LoginForm's database connection settings according to your PostgreSQL configuration and start using the application. :)
